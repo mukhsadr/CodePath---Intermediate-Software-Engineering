@@ -3,7 +3,11 @@
 ## [Assignment 1](#assignment-1)
 
 * [Problem #1 - Reverse a String](#problem-1---reverse-a-string)
+
 * [Problem #2 - Substring](#problem-2---substring)
+
+* [Problem #3: Next Prime](#problem-3-next-prime)
+
 ---
 
 ### __Problem #1 - Reverse a String__
