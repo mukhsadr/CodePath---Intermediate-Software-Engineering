@@ -1,21 +1,6 @@
 <!-- Heading -->
 # Welcome to my notes on __Intermediate Software Engineering__ offered by CodePath.
-I have been struggling to put my thoughts into words and I decided to challenge myself by taking these notes and publish them here for future reviews.
 
-If you took, are taking or will take __Intermediate Software Engineering__ offered by CodePath and are going to brush up your head, please feel free to review my notes.
-
-![wordCloud](Data/word-cloud.png)
-
-
-I would really appreciate your feedback, support and contribution on these notes. Feel free to reach out to me at: 
-
-[LinkedIn](https://www.linkedin.com/in/mukhsadr, "LinkedIn")
-
-[Gmail](mukhsadr@gmail.com, "mukhsadr@gmail.com")
-
-[GitHub](https://github.com/mukhsadr, "GitHub")
-
----
 ## __Context__
 ---
 
@@ -31,3 +16,19 @@ I would really appreciate your feedback, support and contribution on these notes
 * ### [Week 10: Binary Trees I]()
 * ### [Week 11: Binary Trees II]()
 * ### [Week 12: Final Review]()
+----
+I have been struggling to put my thoughts into words and I decided to challenge myself by taking these notes and publish them here for future reviews.
+
+If you took, are taking or will take __Intermediate Software Engineering__ offered by CodePath and are going to brush up your head, please feel free to review my notes.
+
+![wordCloud](Data/word-cloud.png)
+
+
+I would really appreciate your feedback, support and contribution on these notes. Feel free to reach out to me at: 
+
+[LinkedIn](https://www.linkedin.com/in/mukhsadr, "LinkedIn")
+
+[Gmail](mukhsadr@gmail.com, "mukhsadr@gmail.com")
+
+[GitHub](https://github.com/mukhsadr, "GitHub")
+
