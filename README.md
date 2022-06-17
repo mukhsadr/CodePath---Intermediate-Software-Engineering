@@ -4,7 +4,7 @@ I have been struggling to put my thoughts into words and I decided to challenge 
 
 If you took, are taking or will take __Intermediate Software Engineering__ offered by CodePath and are going to brush up your head, please feel free to review my notes.
 
-![wordCloud](blob/main/Data/word-cloud.png)
+![wordCloud](main/Data/word-cloud.png)
 
 
 I would really appreciate your feedback, support and contribution on these notes. Feel free to reach out to me at: 
