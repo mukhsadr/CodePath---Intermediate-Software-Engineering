@@ -19,6 +19,6 @@ I would really appreciate your feedback, support and contribution on these notes
 ## __Context__
 ---
 
-* ### [Week 1: UMPIRE Method](notes/Week%201%20Assignment%201%20and%202)
-* ### [Week 2: Big O and Hash Tables](notes/Week%202%20Assignment%201%20and%202)
-* ### [Week 3: Linked Lists I](notes/Week%203%20Assignment%201%20and%202)
+* ### [Week 1: UMPIRE Method](Notes/Week%201%20Assignment%201%20and%202.md)
+* ### [Week 2: Big O and Hash Tables](Notes/Week%202%20Assignment%201%20and%202.md)
+* ### [Week 3: Linked Lists I](Notes/Week%203%20Assignment%201%20and%202.md)
