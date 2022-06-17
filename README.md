@@ -1,6 +1,8 @@
 <!-- Heading -->
 # Welcome to my notes on __Intermediate Software Engineering__ offered by CodePath.
 
+![wordCloud](Data/word-cloud.png)
+
 ## __Context__
 ---
 
