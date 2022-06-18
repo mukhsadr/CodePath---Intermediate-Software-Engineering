@@ -198,8 +198,8 @@ __Review__
 
 __Evaluate__
 
-* time complexity O(n*m) not sure because we loop through till n and still have to deal with leftover. Is assigning leftover to tail next constant time?
-* space complexity O(n*m)not sure because we loop through till n and still have to deal with leftover. Is assigning leftover to tail next constant space?
+* time complexity O(n) not sure because we loop through till n and still have to deal with leftover. Is assigning leftover to tail's next node constant time?
+* space complexity O(n)not sure because we loop through till n and still have to deal with leftover. Is assigning leftover to tail's next node constant space?
 
 ### Problem #4 - Remove Duplicates II
 
